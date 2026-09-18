@@ -1,7 +1,6 @@
 # portfolio
 
-Personal portfolio of **Rakshith Raj M** — MLOps & AI Engineer. Ported from the architecture of [gamandeep.xyz](https://github.com/gamandeepsingh/gamandeep-portfolio) (MIT licensed) and reskinned with original content.
-
+Personal portfolio of **Rakshith Raj M** — MLOps & AI Engineer.
 ## Getting started
 
 ```bash
