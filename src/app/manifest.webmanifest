@@ -1,0 +1,17 @@
+{
+  "short_name": "Rakshith",
+  "name": "Rakshith Raj M",
+  "description": "MLOps and AI Engineer building end-to-end ML and LLM systems — from model training and experiment tracking to production deployment and observability.",
+  "icons": [
+    {
+      "src": "/images/avatar.jpg",
+      "type": "image/jpeg",
+      "sizes": "736x1077",
+      "purpose": "any"
+    }
+  ],
+  "id": "/?utm_source=pwa",
+  "start_url": "/?utm_source=pwa",
+  "display": "standalone",
+  "scope": "/"
+}
