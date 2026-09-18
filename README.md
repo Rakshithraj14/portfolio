@@ -66,7 +66,3 @@ The header's music toggle plays `public/music.mp3`, looping with a fade in/out.
 - `/api/insights/hit` — `POST`, first-party page-view counter (see above)
 - `/og/simple?title=…&description=…` — OG image generator
 - `/llms.txt`, `/about.md`, `/experience.md`, `/projects.md`, `/awards.md`, `/certifications.md` — Markdown for AI agents
-
-## Credits
-
-Built on the architecture and component system of [gamandeep-portfolio](https://github.com/gamandeepsingh/gamandeep-portfolio) by Gamandeep Singh, MIT licensed. See `LICENSE`.
