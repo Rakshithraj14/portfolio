@@ -16,7 +16,7 @@ export const USER: User = {
   ],
   address: "Bengaluru, Karnataka, India",
   emailB64: "cmFrc2hpdGhyYWoxNDExMjAwMUBnbWFpbC5jb20=", // base64 encoded
-  website: "https://example.com", // TODO: replace with a real domain once one is registered
+  website: "https://rakshithraj14.github.io/shiplog/",
   jobTitle: "MLOps & AI Engineer",
   jobs: [
     {

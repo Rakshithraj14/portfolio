@@ -1,10 +1,8 @@
 import { cn } from "@/lib/utils"
 
-/**
- * Cover art above the profile name: a dot-grid backdrop.
- * TODO: the interactive mascot that used to sit here was removed pending a
- * new mark/mascot design.
- */
+import { MascotCover } from "./mascot-cover"
+
+/** Cover art above the profile name: a dot-grid backdrop with Lloyd, the site mascot. */
 export function ProfileCover({ className }: { className?: string }) {
   return (
     <div
@@ -18,6 +16,8 @@ export function ProfileCover({ className }: { className?: string }) {
         className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_at_center,transparent_30%,var(--background)_85%)]"
         aria-hidden
       />
+
+      <MascotCover size={120} />
     </div>
   )
 }

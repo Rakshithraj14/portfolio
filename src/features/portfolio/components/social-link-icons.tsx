@@ -2,6 +2,7 @@ import {
   SiDocker,
   SiHashnode,
   SiHuggingface,
+  SiNpm,
 } from "@icons-pack/react-simple-icons"
 import { MailIcon, PackageIcon } from "lucide-react"
 
@@ -23,4 +24,5 @@ export const SOCIAL_ICONS: Record<SocialName, React.JSX.Element> = {
   hashnode: <SiHashnode />,
   dockerhub: <SiDocker />,
   huggingface: <SiHuggingface />,
+  npm: <SiNpm />,
 }

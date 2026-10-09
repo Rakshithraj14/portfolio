@@ -29,6 +29,12 @@ export const SOCIAL = {
     href: "https://crates.io/users/Rakshithraj14",
     sameAs: true,
   },
+  npm: {
+    title: "npm",
+    handle: "rakshithraj",
+    href: "https://www.npmjs.com/~rakshithraj",
+    sameAs: true,
+  },
   hashnode: {
     title: "Hashnode",
     handle: "rakshithraj",

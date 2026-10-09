@@ -10,7 +10,9 @@ export const SOURCE_CODE_GITHUB_URL = `https://github.com/${SOURCE_CODE_GITHUB_R
 
 export const SITE_INFO = {
   name: USER.displayName,
-  url: process.env.NEXT_PUBLIC_APP_URL || "https://example.com",
+  url:
+    process.env.NEXT_PUBLIC_APP_URL ||
+    "https://portfolio-eosin-psi-f5p74lmpto.vercel.app",
   ogImage: USER.ogImage,
   description: USER.bio,
   keywords: USER.keywords,
